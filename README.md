@@ -1,0 +1,2 @@
+Research on best practices to run a big data setup for collecting tweets on the cloud.
+The code is rerun with different Storm spout and bolts and Kafka consumer and producer (specified as ip addresses or use host names as per the entry made in /etc/hosts for Linux and C:/Windows/System32/drivers/etc/hosts for Windows)
